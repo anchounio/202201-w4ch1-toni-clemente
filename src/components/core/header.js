@@ -8,7 +8,7 @@ export function Header() {
                         <a href="index.html">Dashboard</a>
                     </li>
                     <li>
-                        <a href="heroes.html">Dashboard</a>
+                        <a href="heroes.html">Heroes</a>
                     </li>
                 </ul>
             </header>
